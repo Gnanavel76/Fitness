@@ -1,2 +1,9 @@
-# Fitness
-Check this website at this url - https://gnanavel76.github.io/Fitness/
+# The Fitness website.
+
+## Tools
+
+This website is built and developed using the Bootstrap Framework.
+
+## Live Preview
+
+https://gnanavel76.github.io/Fitness/
